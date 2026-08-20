@@ -22,7 +22,7 @@ Puedes instalar LemonPop en tu ordenador de dos formas muy sencillas:
 Abre tu consola de comandos (`cmd` o `PowerShell`) y ejecuta el siguiente comando oficial:
 
 ```bash
-winget install LemonPop.LemonPop
+winget install LemonPop
 ```
 
 ### Opción 2: Descarga directa del instalador
