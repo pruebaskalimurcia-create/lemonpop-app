@@ -1,4 +1,4 @@
-# <img src="https://lemonpop.es" width="40" height="40" valign="middle"> LemonPop App
+# <img src="https://lemonpop.es/gallery/lemonpop_icon_optimizado.png?ts=1787032847" width="40" height="40" valign="middle"> LemonPop App
 
 > **LemonPop** es una aplicación de música moderna, ligera y minimalista para Windows, diseñada para descubrir nuevos sonidos, canciones y artistas emergentes en España.
 
