@@ -44,6 +44,6 @@ Este instalador se ha empaquetado utilizando **Inno Setup** y cuenta con certifi
 ---
 
 ## 📄 Licencia y Privacidad
-Este software se rige bajo una Licencia de Usuario Final (EULA) estándar. Está estrictamente prohibido realizar ingeniería inversa, descompilar o modificar los archivos binarios del instalador sin el consentimiento expreso del desarrollador original. Consulta nuestra [Política de Privacidad](https://lemonpop.es).
+Este software se rige bajo una Licencia de Usuario Final (EULA) estándar. Está estrictamente prohibido realizar ingeniería inversa, descompilar o modificar los archivos binarios del instalador sin el consentimiento expreso del desarrollador original. Consulta nuestra [Política de Privacidad](https://lemonpop.es/privacidad).
 
 _Copyright © 2026 LemonPop Music. Todos los derechos reservados._
