@@ -1,4 +1,4 @@
-# <img src="https://lemonpop.es/gallery/lemonpop_icon_optimizado.png?ts=1787032847" width="40" height="40" valign="middle"> LemonPop App
+# <img src="https://lemonpop.es" width="40" height="40" valign="middle"> LemonPop App
 
 > **LemonPop** es una aplicación de música moderna, ligera y minimalista para Windows, diseñada para descubrir nuevos sonidos, canciones y artistas emergentes en España.
 
@@ -28,7 +28,7 @@ winget install LemonPop
 ### Opción 2: Descarga directa del instalador
 Si lo prefieres, puedes descargar directamente el instalador clásico desde la web oficial de descargas:
 
-👉 [**Descargar LemonPop para Windows (.exe)**](https://lemonpop.es)
+👉 [**Descargar LemonPop para Windows (.exe)**](https://lemonpop.es/descargas/lemonpop-setup.exe)
 
 ---
 
